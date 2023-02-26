@@ -15,3 +15,5 @@ If you could choose one part of your work on these documents to revise, what wou
   I helped divide the game's functionality such that porting it to different operating systems would need less time and effort. all while maintaining the same game. Even though your customer may have asked you to do the task, the product is really under the ultimate control of its users. They won't utilize it and won't buy any more products if they don't trust the software or have issues with it.
 
 5)How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+
+  To make updates and maintenance easier, I focused on writing comprehensive documentation and separating game functionality from game functions.

@@ -2,8 +2,8 @@
   
   The Gaming Room served as the customer. They currently had a game named Draw It or Lose It, built for android. The Gaming Room intended to extend to new platforms and enhance the software's capabilities. My essay was clear, precise, and to the point.
 
-2)What did you do particularly well in developing this documentation?
-
+2)What did you do particularly well in developing this documentation?  
+  I was able to outline the proper requirements for the program, as well as delve into good recommendations
 3)What about the process of working through a design document did you find helpful when developing the code?
   
   It helps you maintain your attention on the topic at hand and determine what tasks require time and effort and which ones don't.
